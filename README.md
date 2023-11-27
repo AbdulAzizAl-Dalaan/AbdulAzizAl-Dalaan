@@ -7,8 +7,8 @@
 
 
 <h3>Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizal-dalaan&show_icons=true&locale=en&layout=compact" alt="abdulazizal-dalaan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizal-dalaan&show_icons=true&locale=en" alt="abdulazizal-dalaan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizal-dalaan&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="abdulazizal-dalaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizal-dalaan&show_icons=true&locale=en&theme=rose_pine" alt="abdulazizal-dalaan" /></p>
 <h3>Contributions and Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizal-dalaan&" alt="abdulazizal-dalaan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizal-dalaan&theme=rose_pine" alt="abdulazizal-dalaan" /></p>
 
